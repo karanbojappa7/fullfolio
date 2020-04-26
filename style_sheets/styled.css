@@ -585,6 +585,7 @@ input[type="name"]:focus {
 }
 
 .logo {
+    font-family: 'Tangerine', cursive;
     font-size: 25px;
     color: #000;
     font-weight: bolder;
@@ -592,6 +593,7 @@ input[type="name"]:focus {
 }
 
 .logosm {
+    font-family: 'Tangerine', cursive;
     font-size: 25px;
     color: #fff;
     font-weight: bolder;
